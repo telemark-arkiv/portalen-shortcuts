@@ -5,14 +5,12 @@
 Collects shortcuts
 
 ## Inbound messages
-This microservice listens for the following messages
+This microservice consumes the following messages
 
 - ```{cmd: 'collect-shortcuts', type: 'user'}```
 
 ## Outbound messages
 This microservice does not emit any messages
-
-- ```{info: 'tasks', type:'user'}```
 
 ## Docker
 Build the image
