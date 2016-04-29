@@ -1,6 +1,6 @@
 ###########################################################
 #
-# Dockerfile for tasks-collector-compilo
+# Dockerfile for portalen-shortcuts
 #
 ###########################################################
 
