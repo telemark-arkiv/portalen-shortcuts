@@ -4,7 +4,7 @@
     "description": "Ferier, fravær og reiseregninger",
     "system": "visma",
     "url": "http://tfk-fh-visma01:8200/enterprise",
-    "icon": "check_circle"
+    "icon": "assessment"
   },
   {
     "title": "Compilo",
