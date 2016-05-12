@@ -1,19 +1,5 @@
 [
   {
-    "title": "Min side",
-    "description": "Ferier, fravær og reiseregninger",
-    "system": "visma",
-    "url": "http://tfk-fh-visma01:8200/enterprise",
-    "icon": "check_circle"
-  },
-  {
-    "title": "Compilo",
-    "description": "Kvalitets og avvikssystem",
-    "system": "compilo",
-    "url": "https://kvalitetslosen.t-fk.no/",
-    "icon": "timeline"
-  },
-  {
     "title": "E-post",
     "description": "Webmail for ansatte",
     "system": "OWA",
@@ -21,31 +7,10 @@
     "icon": "email"
   },
   {
-    "title": "Læring",
-    "description": "Oversikt over interne kurs og elektronisk opplæringsmateriell",
-    "system": "Sharepoint",
-    "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
-    "icon": "school"
-  },
-  {
-    "title": "Servicetorget",
-    "description": "Servicetorg for IT, arkiv mm.",
-    "system": "CS",
-    "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
-    "icon": "contact_mail"
-  },
-  {
     "title": "Sak/arkiv",
     "description": "Sak/arkivsystemet",
     "system": "p360",
     "url": "http://public360/",
     "icon": "account_balance"
-  },
-  {
-    "title": "Innkjøp",
-    "description": "Rammeavtaler for Telemark fylkeskommune",
-    "system": "Visma comnerce",
-    "url": "https://contracts.opic.com/Home/Index/",
-    "icon": "business_center"
   }
 ]
