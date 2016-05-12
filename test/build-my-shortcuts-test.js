@@ -2,9 +2,12 @@
 
 var tap = require('tap')
 var buildMyShortcuts = require('../lib/build-my-shortcuts')
+var alle = require('../data/alle.json')
 var administrasjonen = require('../data/administrasjonen.json')
 var skole = require('../data/skole.json')
 var tannhelse = require('../data/tannhelse.json')
+
+tap.equal(JSON.stringify(alle), JSON.stringify(buildMyShortcuts(['alle'])), 'It returns alle correct')
 
 tap.equal(JSON.stringify(administrasjonen), JSON.stringify(buildMyShortcuts(['administrasjonen'])), 'It returns administrasjonen correct')
 
