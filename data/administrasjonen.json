@@ -20,6 +20,13 @@
     "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
     "icon": "contact_mail"
   },
+    {
+    "title": "Styringsinformasjon",
+    "description": "De mest sentrale dokumentene i Telemark fylkeskommune",
+    "system": "CraftCMS",
+    "url": "http://dev.telemarkportalen.vpdev.no/artikler/2016/styringsinformasjon",
+    "icon": "flag"
+  },
   {
     "title": "Tilbud til ansatte",
     "description": "Her finner du tilbud til deg som ansatt",
