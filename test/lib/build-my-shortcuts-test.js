@@ -1,11 +1,11 @@
 'use strict'
 
 var tap = require('tap')
-var buildMyShortcuts = require('../lib/build-my-shortcuts')
-var alle = require('../data/alle.json')
-var administrasjonen = require('../data/administrasjonen.json')
-var skole = require('../data/skole.json')
-var tannhelse = require('../data/tannhelse.json')
+var buildMyShortcuts = require('../../lib/build-my-shortcuts')
+var alle = require('../../data/alle.json')
+var administrasjonen = require('../../data/administrasjonen.json')
+var skole = require('../../data/skole.json')
+var tannhelse = require('../../data/tannhelse.json')
 var tullefant = []
 
 tap.equal(JSON.stringify(alle), JSON.stringify(buildMyShortcuts(['alle'])), 'It returns alle correct')
