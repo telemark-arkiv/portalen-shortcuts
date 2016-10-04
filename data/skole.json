@@ -19,5 +19,26 @@
     "system": "CS",
     "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
     "icon": "contact_mail"
+  },
+   {
+    "title": "NDLA",
+    "description": "Nasjonal digital læringsarena",
+    "system": "NDLA",
+    "url": "https://ndla.no",
+    "icon": "extension"
+  },
+   {
+    "title": "Office365",
+    "description": "Samhandlingsside med verktøy fra Microsoft",
+    "system": "Office365",
+    "url": "https://skoletfk.sharepoint.com/skoleportal",
+    "icon": "build"
   }
+     {
+    "title": "MinElev",
+    "description": "Samhandlingsside med verktøy fra Microsoft",
+    "system": "Office365",
+    "url": "https://minelev.t-fk.no/login",
+    "icon": "build"
+  },
 ]
