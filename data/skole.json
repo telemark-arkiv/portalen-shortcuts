@@ -29,7 +29,7 @@
   },
    {
     "title": "Office365",
-    "description": "Samhandlingsside med verktøy fra Microsoft",
+    "description": "Samhandlingsside med programmer fra Microsoft",
     "system": "Office365",
     "url": "https://skoletfk.sharepoint.com/skoleportal",
     "icon": "build"
