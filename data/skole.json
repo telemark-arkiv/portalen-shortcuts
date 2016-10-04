@@ -33,12 +33,12 @@
     "system": "Office365",
     "url": "https://skoletfk.sharepoint.com/skoleportal",
     "icon": "build"
-  }
+  },
      {
     "title": "MinElev",
     "description": "Samhandlingsside med verktøy fra Microsoft",
     "system": "Office365",
     "url": "https://minelev.t-fk.no/login",
     "icon": "build"
-  },
+  }
 ]
