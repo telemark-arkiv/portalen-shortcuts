@@ -30,7 +30,7 @@
      {
     "title": "MinElev",
     "description": "Samhandlingsside med verktøy fra Microsoft",
-    "system": "Office365",
+    "system": "MinElev",
     "url": "https://minelev.t-fk.no/login",
     "icon": "build"
   },
