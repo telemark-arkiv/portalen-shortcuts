@@ -1,7 +1,7 @@
 [
   {
-    "title": "Min side",
-    "description": "Ferier, fravær og reiseregninger",
+    "title": "Min side (Visma)",
+    "description": "Ferier, fravær, reiseregninger, fakturaer og økonomirapportering",
     "system": "visma",
     "url": "http://tfk-fh-visma01:8200/enterprise",
     "icon": "assessment"
