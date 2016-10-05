@@ -13,13 +13,6 @@
     "url": "https://epost.vfk.no/OWA/auth/logon.aspx",
     "icon": "email"
   },
-  {
-    "title": "Servicetorget",
-    "description": "Servicetorg for IT, arkiv mm.",
-    "system": "CS",
-    "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
-    "icon": "contact_mail"
-  },
    {
     "title": "NDLA",
     "description": "Nasjonal digital læringsarena",
