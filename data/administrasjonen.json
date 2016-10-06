@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sak/arkiv",
-    "description": "Sak/arkivsystemet",
-    "system": "p360",
-    "url": "http://public360/",
-    "icon": "account_balance"
-  },
-  {
     "title": "Min tid",
     "description": "Tidsregistrering for ansatte",
     "system": "Min tid",
