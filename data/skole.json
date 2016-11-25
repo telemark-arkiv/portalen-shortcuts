@@ -40,5 +40,12 @@
     "system": "Min tid",
     "url": "http://tfk-fh-stempling01/MinTid/Login.aspx?ReturnUrl=%2fmintid%2fstart.aspx",
     "icon": "query_builder"
+  },
+    {
+    "title": "Elevmappa360",
+    "description": "Tilgang til dine elevmapper",
+    "system": "Elevmappa",
+    "url": "https://elevmappa360.t-fk.no/",
+    "icon": "query_builder"
   }
 ]
