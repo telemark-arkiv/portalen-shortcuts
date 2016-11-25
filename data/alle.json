@@ -14,8 +14,8 @@
     "icon": "account_balance"
   },
   {
-    "title": "Compilo",
-    "description": "Kvalitets og avvikssystem",
+    "title": "Kvalitets- og avvikssystem",
+    "description": "(Compilio)",
     "system": "compilo",
     "url": "https://kvalitetslosen.t-fk.no/",
     "icon": "timeline"
