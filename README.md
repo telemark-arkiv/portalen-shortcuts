@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/telemark/portalen-shortcuts/badge.svg?branch=master&service=github)](https://coveralls.io/github/telemark/portalen-shortcuts?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # portalen-shortcuts
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/portalen-shortcuts.svg)](https://greenkeeper.io/)
 Collects shortcuts
 
 ## Configuration
